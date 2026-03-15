@@ -64,7 +64,7 @@
 							"container": "bronze",
 							"folder": "users",
 							"file": {
-								"value": "@concat(pipeline().parameters.table,'_',('current'))",
+								"value": "@concat(pipeline().parameters.table,'_',variables('current'))",
 								"type": "Expression"
 							}
 						}
