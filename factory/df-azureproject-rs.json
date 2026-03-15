@@ -1,0 +1,9 @@
+{
+	"name": "df-azureproject-rs",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9c2af0ba-1bb2-4f68-96aa-d1f404a15fca",
+		"tenantId": "ce54d94e-3d92-4124-b9fd-38b758fb7fa8"
+	}
+}
