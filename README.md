@@ -2,7 +2,7 @@
 
 ## 🏗️ Project Architecture
 
-This is an end-to-end data engineering pipeline that pulls music data from the **Spotify API**, processes it through **Azure** services, and delivers analytics-ready insights in **Power BI/Tableau**.
+This is an end-to-end data engineering pipeline that pulls music data from the **Spotify API**, processes it through **Azure** services, and delivers analytics-ready insights in **Power BI/Tableau**/HEX.
 
 ![Spotify Azure Project Flow](spotify_azure_project_flow.svg)
 
